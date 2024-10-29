@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpseclib/phpseclib": "^3.0",
+        "ifsnop/mysqldump-php": "^2.9",
+        "nelexa/zip": "^4.0"
+    }
+}
